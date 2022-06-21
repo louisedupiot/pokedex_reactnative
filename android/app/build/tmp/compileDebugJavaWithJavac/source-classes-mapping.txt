@@ -1,0 +1,14 @@
+com/instafood/BuildConfig.java
+ com.instafood.BuildConfig
+com/instafood/MainActivity.java
+ com.instafood.MainActivity
+com/instafood/ReactNativeFlipper.java
+ com.instafood.ReactNativeFlipper
+ com.instafood.ReactNativeFlipper$1
+ com.instafood.ReactNativeFlipper$2
+ com.instafood.ReactNativeFlipper$2$1
+com/instafood/MainApplication.java
+ com.instafood.MainApplication
+ com.instafood.MainApplication$1
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList
